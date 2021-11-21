@@ -1,6 +1,6 @@
 $theme-colors: (
   'primary': #145bea,
-  'secondary': #833bec,
+  'secondary': rgb(39, 39, 39),
   'success': #1ce1ac,
   'info': #ff7d50,
   'warning': #ffbe0b,
@@ -9,6 +9,6 @@ $theme-colors: (
   'dark': #001738,
 );
 
-$inline: true;
+$body-bg: rgb(39, 39, 39);
 
 @import '/node_modules/bootstrap/scss/bootstrap.scss';
