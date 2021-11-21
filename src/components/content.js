@@ -17,8 +17,7 @@ export default function Content() {
                     <h1 className={Styles.name + " mt-3"}>Vinícius Sizílio</h1>
                     <h2 className={Styles.idd}>Desenvolvedor FullStack</h2>
                     <span className={Styles.email}>vinicius.sizilio@gmail.coom</span>
-                    <hr/>
-                    <div className="px-2"> 
+                    <div className="mt-4"> 
                         <span className={Styles.label}>PHP</span>
                         <span className={Styles.label}>Flutter</span>
                         <span className={Styles.label}>NextJS</span>
